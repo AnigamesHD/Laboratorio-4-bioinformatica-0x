@@ -21,3 +21,9 @@ Análisis del alineamiento, por medio del programa MUSCLE; refinamiento del alin
 https://www.dropbox.com/s/j302w0u5kfbev0x/foto%201.jpg?dl=0
 
 https://www.dropbox.com/s/zd7f99ehv1wdxe9/phylo_tree.pdf?dl=0
+
+# Filogenia inferida con parámetros: ClustalW (Alineamiento), Built-in Curer (Alignment curation), TNT (Filogenia), y TreeDyn (representación del árbol):
+
+https://www.dropbox.com/s/85ig3bg52ss38xo/foto%202.jpg?dl=0
+https://www.dropbox.com/s/ow56luffqli1kiq/2.pdf?dl=0
+
