@@ -27,3 +27,25 @@ https://www.dropbox.com/s/zd7f99ehv1wdxe9/phylo_tree.pdf?dl=0
 https://www.dropbox.com/s/85ig3bg52ss38xo/foto%202.jpg?dl=0
 https://www.dropbox.com/s/ow56luffqli1kiq/2.pdf?dl=0
 
+# En ausencia de la etapa de Alingment Curation:
+
+https://www.dropbox.com/s/n4oy6k268g4uk6x/foto%203.jpg?dl=0
+
+https://www.dropbox.com/s/yl9qe5kzwof4sda/3.pdf?dl=0
+
+# En ausencia de la etapa de Alingment Curation:
+
+https://www.dropbox.com/s/j16h38bzg3nbwmu/foto%204.jpg?dl=0
+
+https://www.dropbox.com/s/ae0glmr0rnuh3da/4.pdf?dl=0
+
+#  ¿A qué se refiere el paso de Alignment curation y para qué sirve?
+
+El programa Gblocks realiza el paso de “Alignment Curation”, el cual consta en que el programa elimina posiciones alineadas de forma pobre y además regiones divergentes, en otras palabras, remueve el “ruido” del alineamiento. Entonces, Gblocks identifica porciones del alineamiento para eliminar posiciones con gaps, incluyendo regiones que no están presentes en todas las secuencias. Si se encuentra un alineamiento ambiguo adyacente de forma inmediata al gap, esa posición también puede ser excluida del alineamiento final, ya que el evento indel puede ser el responsable de la ambigüedad observada. 
+
+# ¿Cuál es la diferencia entre BioNJ y Neighbor? 
+
+Al dirigirse hacia la documentación del portal, BioNJ y Neighbor, ambos utilizan PHYLYP, el cual es un paquete de programas para inferir filogenias, pero se diferencian en la limitación en el número de taxas, que se refiere a un conjunto de organismos emparentados y agrupados de acuerdo a una clasificación, tomando en cuenta las variables entre especies cuando se realiza un alineamiento. Entonces, el programa BioNJ, puede soportar hasta <5000 taxas, mientras que Neighbor puede tolerar hasta <500 taxas; esto quiere decir la cantidad de taxas que el programa analizará antes de "confundirse", es decir, existe un límite que el programa puede soportar respecto a la cantidad de datos que se adjunten. 
+
+# Corre de nuevo las filogenias pero esta vez sin Alignment curation. ¿Cuál es el efecto en las filogenias?
+
