@@ -49,3 +49,9 @@ Al dirigirse hacia la documentación del portal, BioNJ y Neighbor, ambos utiliza
 
 # Corre de nuevo las filogenias pero esta vez sin Alignment curation. ¿Cuál es el efecto en las filogenias?
 
+En la de ProbCons, GBlocks, MrBayes TreeDyn se puede ver una pequeña diferencia en las medida  de las ramas. La rama de arriba se reduce con la curación y la de abajo se alarga con la curación.
+En la de ClustalW, remove positions with gaps, TNT y TreeDyn no hay ningún efecto en la filogenia.
+
+
+
+
