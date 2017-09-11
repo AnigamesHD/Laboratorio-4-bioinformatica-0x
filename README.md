@@ -1,5 +1,7 @@
 # Laboratorio-4-bioinformatica-0x
 
+# Nombre: Byron Guzmán Marín
+
 ## Plataforma phylogeny.fr y preparación de datos
 
 __¿Qué cosas ofrece este portal?__
