@@ -51,9 +51,9 @@ Al dirigirse hacia la documentación del portal, BioNJ y Neighbor, ambos utiliza
 
 # Corre de nuevo las filogenias pero esta vez sin Alignment curation. ¿Cuál es el efecto en las filogenias?
 
-En la de ProbCons, GBlocks, MrBayes TreeDyn se puede ver una pequeña diferencia en las medida  de las ramas. La rama de arriba se reduce con la curación y la de abajo se alarga con la curación.
-En la de ClustalW, remove positions with gaps, TNT y TreeDyn no hay ningún efecto en la filogenia.
+En ClustalW (Alineamiento), Built-in Curer (Alignment curation), TNT (Filogenia), y TreeDyn se observa que es mucho más estructurado (más resuelta), en cambio en ausencia de la etapa de Alingment Curation  los colocó de forma escalonada (escalera) de tal forma  que sale uno, otro ancestro entre medio, sale otro, sale otro, por lo cual se infiere que esto sucede por el ruido en el alineamiento  que no se limpio y lo otro no siempre necesariamente que sea mas estructurado signficara qe sea el correcto ahi ya habria que entrar a utilizar el sentido común en donde uno puede busca huano y este deberia estar mas cerca de chimpance y deberian estar agrupados con todos los monos pero si me aparecen en distintos lugares eso ya o es correcto, ya que generalmente organismos  evolutivamente  cercanos tienen que agrupar en un mismo clado.
 
-
+# Descripción de las diferencias entre las filogenias
+La filogenia con ClustalW, "Remove positions with gaps", TNT, y TreeDyn se  clasifican en 3 clados, por lo se visualiza 3 grupos monofiléticos y el resto se agrupan por fuera, en cambio en la filogenia en ausencia de la etapa de Alingment Curation se observa 1 grupo monofilético, por lo cual uno se ve muco más estructurado pero esto ya se hab´ía comentado suponendo a que uno no presenta com el ruido en comparación al otro, así mismo se estima que la cantidad de grupos monofileticos varía, además si se le agregara otros organismos apareceria otra rama grande con otros más, pero siempre respetando la misma condición en que todos ellos deben venir del mismo ancestro común y ese ancestro común tiene que dar origen a todos ellos y no a otro, es decir es unica la relación.
 
 
