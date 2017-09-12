@@ -58,6 +58,6 @@ La filogenia con ClustalW, "Remove positions with gaps", TNT, y TreeDyn se  clas
 
 Imagen 1: https://www.dropbox.com/s/d8ko3e1ee0knc8u/Diapositiva1.jpg?dl=0
 
-Imagen 2: https://www.dropbox.com/s/d8ko3e1ee0knc8u/Diapositiva1.jpg?dl=0
+Imagen 2: https://www.dropbox.com/s/maem3ttgk75b9mw/Diapositiva2.jpg?dl=0
 
 
